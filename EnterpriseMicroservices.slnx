@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="OrderService.API/OrderService.API.csproj" Id="f8c62057-77e7-4bc9-bc71-23715715d43f" />
+  <Project Path="OrderService.Application/OrderService.Application.csproj" Id="81cb88db-0425-4166-b01c-9598b3bcbcde" />
+  <Project Path="OrderService.Domain/OrderService.Domain.csproj" Id="9c3cdc35-7969-43b8-bfb4-64d4f5a3e02a" />
+  <Project Path="OrderService.Infrastructure/OrderService.Infrastructure.csproj" Id="f00898c0-a572-478f-a0a1-eb53b65de044" />
+  <Project Path="Product.API/ProductService.API.csproj" />
+  <Project Path="Product.Application/ProductService.Application.csproj" />
+  <Project Path="Product.Domain/ProductService.Domain.csproj" />
+  <Project Path="Product.Infrastructure/ProductService.Infrastructure.csproj" />
+</Solution>

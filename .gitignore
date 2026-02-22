@@ -1,0 +1,32 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Dotnet local tool files
+*.dotnet-tools.json
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Entity Framework Migrations (optional)
+**/Migrations/
+
+# Secret files (never commit!)
+appsettings.*.json
+.env
